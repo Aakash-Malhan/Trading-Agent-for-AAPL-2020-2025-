@@ -9,6 +9,10 @@ Deep Q-Network (DQN) agent that learns optimal trading policies for Apple (AAPL)
     Operate in a realistic sequential decision environment with partial observability
     Learn robust policies via **experience replay and ε-greedy exploration
 
+<img width="1687" height="666" alt="Screenshot 2025-11-03 230425" src="https://github.com/user-attachments/assets/62b66aaf-fcef-4a48-8066-2a282d010162" />
+
+
+
 **Tech Stack**
 
     Component           Technology
